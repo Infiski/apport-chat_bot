@@ -1,0 +1,9 @@
+streamlit
+fitz
+joblib
+sentence-transformers
+google-generativeai
+dotenv
+gTTS
+deep-translator
+numpy
